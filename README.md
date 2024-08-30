@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on the Moodle Manager for SSW.
+- 🔭 I’m currently working on a [semester planer](https://ssw.jku.at/Teaching/MasterTheses/SemesterSchedule/Aufgabenstellung.pdf) with the [SSW(@JKU)](https://ssw.jku.at) and [IM(@JKU)](https://www.jku.at/informationsmanagement) to complete my master studies.
 - 🌱 I’m currently studying Software Engineering at JKU.
 - 📫 Reach me via the E-Mail linked in my GitHub profile.
 # Stats
