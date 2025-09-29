@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I’m working at [Fabasoft](https://www.fabasoft.com/de) Relations on an internal tool to help improving the sales process.
+- 💻 I’m working at [RZL](https://www.rzlsoftware.at) by contributing to the Next generation of their software.
 - 🎓 I graduated in Software Engineering at JKU.
 - 📫 Reach me via the E-Mail linked in my GitHub profile.
 # Stats
